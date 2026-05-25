@@ -31,12 +31,6 @@
           "name": "Vali",
           "age": 30,
           "email": "vali@gmail.com"
-        },
-        {
-          "id": 3,
-          "name": "Soli",
-          "age": 22,
-          "email": "soli@gmail.com"
         }
       ]
     }
