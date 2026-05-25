@@ -54,7 +54,14 @@
           "constraints": ""
         }
       ],
-      "rows": []
+      "rows": [
+        {
+          "id": 1,
+          "title": "Noutbuk",
+          "price": 5000000,
+          "stock": 10
+        }
+      ]
     }
   }
 }
