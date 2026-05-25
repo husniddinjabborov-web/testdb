@@ -1,0 +1,25 @@
+{
+  "tables": {
+    "users": {
+      "columns": [
+        {
+          "name": "id",
+          "type": "INT"
+        },
+        {
+          "name": "name",
+          "type": "TEXT"
+        },
+        {
+          "name": "age",
+          "type": "INT"
+        },
+        {
+          "name": "email",
+          "type": "TEXT"
+        }
+      ],
+      "rows": []
+    }
+  }
+}
