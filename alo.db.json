@@ -49,16 +49,6 @@
           "id": 6,
           "age": null,
           "email": "gds"
-        },
-        {
-          "id": 7,
-          "age": 0,
-          "email": ""
-        },
-        {
-          "id": 10,
-          "age": null,
-          "email": "fds"
         }
       ]
     }
