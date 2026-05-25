@@ -21,23 +21,7 @@
       ],
       "rows": [
         {
-          "id": 2,
-          "name": "Vali",
-          "age": 30,
-          "email": "vali@gmail.com"
-        },
-        {
-          "id": 3,
-          "age": null,
-          "email": "d"
-        },
-        {
-          "id": 4,
-          "age": null,
-          "email": "ddd"
-        },
-        {
-          "id": 5,
+          "id": 1,
           "age": null,
           "email": "sd"
         }
