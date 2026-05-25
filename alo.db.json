@@ -21,11 +21,6 @@
       ],
       "rows": [
         {
-          "id": 1,
-          "age": null,
-          "email": "sd"
-        },
-        {
           "id": 2,
           "age": null,
           "email": "gds"
