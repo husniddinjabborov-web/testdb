@@ -1,4 +1,11 @@
 {
-  "todos": [],
-  "nextId": 1
+  "todos": [
+    {
+      "id": 1,
+      "matn": "1",
+      "bajarildi": 0,
+      "yaratildi": "26/05/2026, 00:29:01"
+    }
+  ],
+  "nextId": 2
 }
