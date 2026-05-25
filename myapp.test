@@ -18,7 +18,13 @@
           "constraints": ""
         }
       ],
-      "rows": []
+      "rows": [
+        {
+          "id": 1,
+          "name": "Ali",
+          "age": 25
+        }
+      ]
     },
     "products": {
       "columns": [
