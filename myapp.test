@@ -16,13 +16,19 @@
           "name": "age",
           "type": "INT",
           "constraints": ""
+        },
+        {
+          "name": "email",
+          "type": "TEXT",
+          "constraints": ""
         }
       ],
       "rows": [
         {
           "id": 1,
           "name": "Ali",
-          "age": 26
+          "age": 26,
+          "email": null
         }
       ]
     },
