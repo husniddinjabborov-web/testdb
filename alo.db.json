@@ -19,18 +19,7 @@
           "type": "TEXT"
         }
       ],
-      "rows": [
-        {
-          "id": 13,
-          "age": null,
-          "email": "gds"
-        },
-        {
-          "id": 14,
-          "age": null,
-          "email": "gds"
-        }
-      ]
+      "rows": []
     }
   }
 }
