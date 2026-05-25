@@ -1,0 +1,56 @@
+{
+  "tables": {
+    "users": {
+      "columns": [
+        {
+          "name": "id",
+          "type": "INT"
+        },
+        {
+          "name": "name",
+          "type": "TEXT"
+        },
+        {
+          "name": "age",
+          "type": "INT"
+        },
+        {
+          "name": "email",
+          "type": "TEXT"
+        }
+      ],
+      "rows": [
+        {
+          "id": 1,
+          "name": "Ali",
+          "age": 25,
+          "email": "ali_yangi@gmail.com"
+        },
+        {
+          "id": 2,
+          "name": "Vali",
+          "age": 30,
+          "email": "vali@gmail.com"
+        },
+        {
+          "id": 1,
+          "name": "Ali",
+          "age": 25,
+          "email": "ali@gmail.com"
+        },
+        {
+          "id": 2,
+          "name": "Vali",
+          "age": 30,
+          "email": "vali@gmail.com"
+        },
+        {
+          "id": 3,
+          "name": "Soli",
+          "age": 22,
+          "email": "soli@gmail.com"
+        }
+      ]
+    }
+  }
+}
