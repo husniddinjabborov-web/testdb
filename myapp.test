@@ -19,6 +19,31 @@
         }
       ],
       "rows": []
+    },
+    "products": {
+      "columns": [
+        {
+          "name": "id",
+          "type": "INT",
+          "constraints": ""
+        },
+        {
+          "name": "title",
+          "type": "TEXT",
+          "constraints": ""
+        },
+        {
+          "name": "price",
+          "type": "INT",
+          "constraints": ""
+        },
+        {
+          "name": "stock",
+          "type": "INT",
+          "constraints": ""
+        }
+      ],
+      "rows": []
     }
   }
 }
